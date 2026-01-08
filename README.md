@@ -1,11 +1,8 @@
 # 💫 About Me:<br>
-👋 Hi, I’m Harsh, a passionate Full Stack Developer.<br>
-
-🛠️ Skilled in HTML, CSS, JavaScript, Node.js, Express, MongoDB, and SQL.<br>
-🌱 Currently learning Advanced DSA and Cloud Computing (AWS).<br>
-🤝 Open to collaborating on web development projects & backend APIs.<br>
-💬 Ask me about C, C++, Java, Python, DSA, and Full Stack Development.<br>
-⚡ I love solving problems and building real-world web applications 🚀<br>
+👋 Hi, I’m Harsh, a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems.<br>
+🚀 I enjoy working on end-to-end projects, exploring backend logic, and improving code quality through DSA and system thinking.<br>
+🤝 Open to collaborating on impactful projects, learning from others, and growing as a developer.<br>
+⚡ Always curious, consistent, and driven to turn ideas into reality.<br>
 
 
 
