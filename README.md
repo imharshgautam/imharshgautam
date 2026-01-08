@@ -5,7 +5,7 @@
 🌱 Currently learning Advanced DSA and Cloud Computing (AWS).<br>
 🤝 Open to collaborating on web development projects & backend APIs.<br>
 💬 Ask me about C, C++, Java, Python, DSA, and Full Stack Development.<br>
-⚡ I love solving problems and building real-world web applications 🚀<br><br>
+⚡ I love solving problems and building real-world web applications 🚀<br>
 
 
 
